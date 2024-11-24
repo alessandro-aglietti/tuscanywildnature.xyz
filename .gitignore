@@ -128,3 +128,22 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# common
+.DS_Store
+/node_modules
+*-lock.*
+*.lock
+*.log
+
+/dist
+
+# wrangler project
+
+.dev.vars
+.wrangler/
+.vscode
+.git
+
+# notionhost generated
+_page-script-js-string.ts
