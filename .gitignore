@@ -147,3 +147,6 @@ dist
 
 # notionhost generated
 _page-script-js-string.ts
+
+# cloudflare pages artifacts
+*.zip
